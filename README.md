@@ -2,7 +2,7 @@
 Scrape the job title, location, company and required skills in glassdoor
 
 #
-### This repository is a part of course project, not for commercial purposes
+### This repository is part of a course project, not for commercial purposes
 ![](<csv_screenshot.png>)
 #
 ### Location
@@ -20,6 +20,6 @@ Location and Job title can be changed in **glassdoor.py**, skills can be changed
 # Run
 **Run** glassdoor_detail.py
 
-**glassdoor.py** will scrape all combinations of job titles and locations, and render number of pages, and get each job's link
+**glassdoor.py** will scrape all the combinations of job titles and locations, and render number of pages, and scrape each job's link
 
-**glassdoor_detail.py** will scrape all the job links and get all requirement skills
+**glassdoor_detail.py** will scrape all the job links and get all required skills
